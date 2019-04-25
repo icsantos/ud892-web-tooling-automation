@@ -1,0 +1,37 @@
+{
+  "name": "lesson-2",
+  "version": "1.0.0",
+  "description": "Web Productivity sample",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3",
+    "browser-sync": "^2.26.4",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-eslint": "^5.0.0",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-jasmine-browser": "^4.1.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-terser": "^1.1.7",
+    "imagemin-pngquant": "^7.0.0",
+    "jasmine-core": "^3.4.0",
+    "puppeteer": "^1.14.0"
+  },
+  "dependencies": {
+    "node-gyp": "^3.8.0",
+    "node-sass": "^4.11.0",
+    "tar": "^4.4.8"
+  }
+}
