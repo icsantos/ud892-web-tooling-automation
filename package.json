@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "node-gyp": "^3.8.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "tar": "^4.4.18"
   }
 }
