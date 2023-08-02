@@ -22,7 +22,7 @@
     "gulp-eslint": "^5.0.0",
     "gulp-imagemin": "^5.0.3",
     "gulp-jasmine-browser": "^4.1.0",
-    "gulp-sass": "^4.0.2",
+    "gulp-sass": "^5.1.0",
     "gulp-sourcemaps": "^2.6.5",
     "gulp-terser": "^1.1.7",
     "imagemin-pngquant": "^7.0.0",
@@ -30,8 +30,8 @@
     "puppeteer": "^1.14.0"
   },
   "dependencies": {
-    "node-gyp": "^3.8.0",
-    "node-sass": "^7.0.0",
+    "node-gyp": "^9.4.0",
+    "node-sass": "^9.0.0",
     "tar": "^4.4.18"
   }
 }
