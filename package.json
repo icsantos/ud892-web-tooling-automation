@@ -30,8 +30,8 @@
     "puppeteer": "^1.14.0"
   },
   "dependencies": {
-    "node-gyp": "^3.8.0",
-    "node-sass": "^7.0.3",
+    "node-gyp": "^9.4.0",
+    "node-sass": "^9.0.0",
     "tar": "^4.4.18"
   }
 }
